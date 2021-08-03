@@ -1,0 +1,19 @@
+.hadder{
+    background-color: rgb(0, 60, 255);
+    color: rgb(0, 0, 0);
+}
+.adder{
+    background-color: gold;
+    
+}
+.quize1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.quise1{
+    background-color: rgb(0, 191, 255);
+}
+body{
+    margin: 0px;
+    background-color: rgb(0, 236, 253);
+}
